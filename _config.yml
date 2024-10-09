@@ -42,7 +42,7 @@ avatar: "/static/img/desh_new.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rishi Aagrwal
+  name: Rishi Agarwal
   email: "e22cseu1119@bennett.edu.in"
   github: therishiagarwal    # eg. daattali
   linkedin: rishi-agarwal7
