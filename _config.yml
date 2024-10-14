@@ -48,6 +48,7 @@ author:
   github: therishiagarwal    # eg. daattali
   linkedin: rishi-agarwal7
   twitter: therishiagarwal
+  instagram: rishi._.agarwal
 
 # Select which links to show in the footer
 footer-links-active:
@@ -62,7 +63,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
