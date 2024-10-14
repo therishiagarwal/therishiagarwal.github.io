@@ -26,6 +26,7 @@ navbar-links:
   Home: ""
   LeetCode: "https://leetcode.com/u/therishiagarwal/"
   Publications: "publications"
+  Certifications: "certifications"
   # Blog: "blog"
   # Talks: "talks"
   Resume: "resume"
