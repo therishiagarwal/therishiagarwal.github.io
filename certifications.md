@@ -3,71 +3,45 @@ layout: page
 title: Certifications
 ---
 
-# Courses Timeline
+# Certifications
 
-## Highlights
-- **AWS Certified Cloud Practitioner**  
-  *Achieved: September 2024*  
-  *(Verified badge link)*
+## Timeline
+
+- **2024**: 
+- [Exploratory Data Analysis for Machine Learning | IBM](https://coursera.org/verify/GC7EXU33LNUO)  
+
+
+**2023**: 
+- Exploratory Data Analysis for Machine Learning
+IBM
+- AWS Certified Cloud Practitioner
+- **July 2024**: Advanced Machine Learning Techniques (Bennett University)
+- **April 2024**: Cloud Architecture and Security (Google Cloud)
+- **February 2024**: Natural Language Processing (Coursera)
+- **January 2024**: Introduction to Artificial Intelligence (Bennett University)
 
 ---
 
-## Table of Contents
-- [Filter by AI/ML](#ai-ml)
-- [Filter by Cloud Computing](#cloud)
-- [Filter by Other](#other)
-
----
-
-## Courses by Category
+## Grouped by Category
 
 ### AI/ML
-<a id="ai-ml"></a>
-
 - **Advanced Machine Learning Techniques**  
   *Bennett University*
 - **Natural Language Processing**  
   *Coursera*
 - **Introduction to Artificial Intelligence**  
   *Bennett University*
-- **Supervised Learning Models**  
-  *edX*
-- **Fundamentals of Machine Learning**  
-  *Bennett University*
-
----
 
 ### Cloud
-<a id="cloud"></a>
-
+- **AWS Certified Cloud Practitioner**  
+  *Achieved: September 2024*
 - **Cloud Architecture and Security**  
-  *Google Cloud Professional Certificate*
-- **Containerization with Kubernetes and Docker**  
-  *Udemy*
-- **AWS Cloud Foundations**  
-  *AWS Academy Cloud Foundations*
-- **Introduction to Cloud Computing**  
-  *Bennett University*
+  *Google Cloud*
 - **AWS Cloud Practitioner Essentials**  
   *AWS Academy*
 
----
-
 ### Other
-<a id="other"></a>
-
 - **Blockchain and Cryptography**  
   *Bennett University*
 - **Cybersecurity Essentials**  
   *Bennett University*
-- **Data Structures and Algorithms in Python**  
-  *Bennett University*
-- **Introduction to DevOps**  
-  *Coursera*
-- **Introduction to Java Programming**  
-  *Bennett University*
-
----
-
-### Usage
-Click on the filter links in the table of contents to navigate directly to the respective categories.
