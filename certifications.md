@@ -3,10 +3,17 @@ layout: page
 title: Certifications
 ---
 
+You can also browse my <a href="https://www.coursera.org/user/5f793b45ed8a77078a08d1ed80536caa" target="_blank">Coursera Profile</a> and <a href="https://www.credly.com/users/rishi-agarwal.cb9e4d4b" target="_blank">Credly</a>.
+<br />
+
 - **2024**: 
+  - [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/GC7EXU33LNUO) - *IBM*
+
   - [Supervised Machine Learning: Classification](https://coursera.org/verify/0ZVMM9D7N0JF) - *IBM*
 
   - [Unsupervised Machine Learning](https://coursera.org/verify/YKLXQJQLF88N) - *IBM*
+
+  - **[AWS Certified Cloud Practitioner](https://lnkd.in/gG2H6zUQ)** - *AWS*
   
   - [Simulation and Modeling of Natural Processes](https://coursera.org/verify/88UJZMSG5BHG) - *University of Geneva*
   
@@ -32,7 +39,7 @@ title: Certifications
 
 ---
 
-## Grouped by Category
+<!-- ## Grouped by Category
 
 ### AI/ML
 - **[Supervised Machine Learning: Classification](https://coursera.org/verify/0ZVMM9D7N0JF)** - *IBM* (2024)
@@ -51,4 +58,4 @@ title: Certifications
 - **[Data Structures](https://coursera.org/verify/WHB4REUCLNZ5)** - *University of California San Diego* (2023)
 
 ### Innovation
-- **[Design Thinking for Innovation](https://coursera.org/verify/47LC7NCJMTJ3)** - *University of Virginia* (2024)
+- **[Design Thinking for Innovation](https://coursera.org/verify/47LC7NCJMTJ3)** - *University of Virginia* (2024) -->
