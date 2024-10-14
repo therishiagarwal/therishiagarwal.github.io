@@ -7,8 +7,10 @@ title: Certifications
 
 ## Timeline
 
-- **2024**: 
-- [Exploratory Data Analysis for Machine Learning | IBM](https://coursera.org/verify/GC7EXU33LNUO)  
+**2024**: 
+  - [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/GC7EXU33LNUO) - *IBM*
+
+
 
 
 **2023**: 
