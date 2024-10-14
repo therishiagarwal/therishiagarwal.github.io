@@ -24,7 +24,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  LeetCode: "talks"
+  LeetCode: "https://leetcode.com/u/therishiagarwal/"
   Publications: "publications"
   # Blog: "blog"
   Resume: "resume"
