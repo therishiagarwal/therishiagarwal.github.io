@@ -1,10 +1,10 @@
 {% capture before %}{{ include.link[1] | split: "://" | first }}{% endcapture %}
-{% capture after %}{{ include.link[1] | split: "://" | last }}{% endcapture %}            
+{% capture after %}{{ include.link[1] | split: "://" | last }}{% endcapture %}
 {% assign internal = true %}
 {% if before != after %}
   {% if before == "http" or before == "https" %}
     {% assign internal = false %}
-  {% endif %}  
+  {% endif %}
 {% endif %}
 
 {% if internal %}
@@ -13,4 +13,15 @@
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
 
-<a href="{{ linkurl }}">{{ include.link[0] }}</a>
+{%- comment -%}
+Check if the link is for LeetCode, and if so, add the logo.
+{%- endcomment -%}
+
+{% if include.link[0] == "LeetCode" %}
+  <a href="{{ linkurl }}">
+    <img src="{{ '/static/img/leetlogo.png' | relative_url }}" alt="LeetCode" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/>
+    {{ include.link[0] }}
+  </a>
+{% else %}
+  <a href="{{ linkurl }}">{{ include.link[0] }}</a>
+{% endif %}
