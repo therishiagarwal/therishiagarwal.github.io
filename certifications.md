@@ -7,6 +7,8 @@ You can also browse my <a href="https://www.coursera.org/user/5f793b45ed8a77078a
 <br />
 
 - **2024**: 
+  - [Getting Started with Google Kubernetes Engine](https://coursera.org/verify/M0TYF9PC8N2G) - *Google Cloud*
+
   - [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/GC7EXU33LNUO) - *IBM*
 
   - [Supervised Machine Learning: Classification](https://coursera.org/verify/0ZVMM9D7N0JF) - *IBM*
