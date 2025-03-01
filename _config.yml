@@ -86,6 +86,7 @@ disqus: "therishiagarwal-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-121781547-1"
+google_analytics: "G-ZV2TX2CKRN"
 
 # Google Tag Manager ID
 #gtm: ""
