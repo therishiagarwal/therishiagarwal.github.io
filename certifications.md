@@ -34,8 +34,8 @@ title: Certifications
 
 You can also browse my <a href="https://www.coursera.org/user/5f793b45ed8a77078a08d1ed80536caa" target="_blank">Coursera Profile</a> and <a href="https://www.credly.com/users/rishi-agarwal.cb9e4d4b" target="_blank">Credly</a>.
 <br />
-<!-- 
-- **2024**: 
+
+<!-- - **2024**: 
   - [Getting Started with Google Kubernetes Engine](https://coursera.org/verify/M0TYF9PC8N2G) - *Google Cloud*
 
   - [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/GC7EXU33LNUO) - *IBM*
