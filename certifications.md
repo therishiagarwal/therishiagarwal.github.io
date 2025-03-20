@@ -4,31 +4,31 @@ title: Certifications
 ---
 
 
-- ## Artificial Intelligence & Machine Learning (AI/ML)
+- ### Artificial Intelligence & Machine Learning (AI/ML)
   - [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/GC7EXU33LNUO) - *IBM* (2024)
   - [Supervised Machine Learning: Classification](https://coursera.org/verify/0ZVMM9D7N0JF) - *IBM* (2024)
   - [Unsupervised Machine Learning](https://coursera.org/verify/YKLXQJQLF88N) - *IBM* (2024)
   - [Probability & Statistics for Machine Learning & Data Science](https://coursera.org/verify/TF8SM7EPCALC) - *DeepLearning.AI* (2023)
 
-- ## Cloud Computing & DevOps
+- ### Cloud Computing & DevOps
   - [AWS Certified Cloud Practitioner](https://lnkd.in/gG2H6zUQ) - *AWS* (2024)
   - [Getting Started with Google Kubernetes Engine](https://coursera.org/verify/M0TYF9PC8N2G) - *Google Cloud* (2024)
 
-- ## Networking & Security
+- ### Networking & Security
   - [Fundamentals of Network Communication](https://coursera.org/verify/4358KMGCK4CH) - *University of Colorado System* (2024)
   - [The Bits and Bytes of Computer Networking](https://coursera.org/verify/PGZDJTGL927C) - *Google* (2024)
   - [Introduction to Computers and Operating Systems and Security](https://coursera.org/verify/FZEKA3H78AFF) - *Microsoft* (2024)
 
-- ## Software Development & Programming
+- ### Software Development & Programming
   - [Algorithmic Toolbox](https://coursera.org/verify/LMWU68U4HM5P) - *University of California San Diego* (2024)
   - [Data Structures](https://coursera.org/verify/WHB4REUCLNZ5) - *University of California San Diego* (2023)
   - [Object-Oriented Design](https://coursera.org/verify/GWKKFW8QT3AC) - *University of Alberta* (2023)
   - [Introduction to Git and GitHub](https://coursera.org/verify/PXJRVFNL2P8Y) - *Google* (2023)
 
-- ## Simulation & Modeling
+- ### Simulation & Modeling
   - [Simulation and Modeling of Natural Processes](https://coursera.org/verify/88UJZMSG5BHG) - *University of Geneva* (2024)
 
-- ## Innovation & Design
+- ### Innovation & Design
   - [Design Thinking for Innovation](https://coursera.org/verify/47LC7NCJMTJ3) - *University of Virginia* (2024)
 
 
