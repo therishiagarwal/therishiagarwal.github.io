@@ -13,6 +13,8 @@ title: Certifications
 - ### Cloud Computing & DevOps
   - [AWS Certified Cloud Practitioner](https://lnkd.in/gG2H6zUQ) - *AWS* (2024)
   - [Getting Started with Google Kubernetes Engine](https://coursera.org/verify/M0TYF9PC8N2G) - *Google Cloud* (2024)
+  - [Exam Prep: AWS Cloud Solutions Architect](https://coursera.org/share/6af23201d43d89c29553ed35aba5587b) - *AWS* (2025)  
+
 
 - ### Networking & Security
   - [Fundamentals of Network Communication](https://coursera.org/verify/4358KMGCK4CH) - *University of Colorado System* (2024)
